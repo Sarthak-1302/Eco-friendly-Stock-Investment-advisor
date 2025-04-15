@@ -1,0 +1,8 @@
+django==5.0.7
+pymongo
+dnspython
+requests
+djangorestframework
+django-cors-headers
+finnhub-python
+yfinance
